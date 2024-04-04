@@ -1,0 +1,69 @@
+
+[
+    {
+      "id": 1,
+      "name": "Bolivar Beleno",
+      "date": "May 4, 2023",
+      "src": "videos/SESAP_Interview_5_with_Bolivar_Beleno.mp4",
+      "summary": "Bolivar Beleno grew up in a single parent household in Panama and developed a love for science and math. They competed internationally in the Physics Olympiad and were encouraged by their mother to pursue international education. Beleno received a scholarship to pursue a mechanical engineering degree in Taiwan, where public health programs were greatly improved. However, they lost the scholarship and had to choose between finishing their degree in Panama or going elsewhere. Beleno was able to attend Oregon State University through the 'Into OSU' program and pursued an electrical engineering degree. Beleno faced language barriers and culture shock in the U.S., but was able to create their own communities with the help of Beleno's brother. Through the experiences from different cultures, Bolivar Beleno has gained a diverse perspective. They participated in the MECOP Internship program and believes that changes should be made to the U.S. educational system, including greater encouragement and resources for engineering and increased access and outreach."
+    },
+    {
+      "id": 2,
+      "name": "Mae Graham",
+      "date": "April 20, 2023",
+      "src": "videos/SESAP_Meeting_3_with_Mae_Graham.mp4",
+      "summary": "Mae Graham is a non-binary student in the EECS undergrad program. They are the first in their immediate family to attend college. Their interest in electrical engineering was sparked by high school robotics programs that provided access to gender non-conforming communities. They had a negative experience at another institution where diversity admittances were seen as bringing down the curve and there was a stress culture with competition over money. They found Oregon State University to be a supportive environment where people value well-being and want each other to succeed. Professors at OSU advocate for student challenges and provide support, in Graham’s experience. Their strengths include perseverance, communication, and a unique background. They suggest that OSU should maintain a constant focus on accessibility, transportation, and student employment opportunities, and have up-to-date equipment."
+    },
+    {
+      "id": 3,
+      "name": "Daniel Yirenya",
+      "date": "May 23, 2023",
+      "src": "videos/SESAP_Interview_4_with_Daniel_Yirenya-Tawiah.mp4",
+      "summary": "Daniel Yirenya from Ghana is pursuing a PhD in microwave engineering at Oregon State University. They chose OSU for the supportive community and the opportunity to become a design engineer. They feel a responsibility to represent Ghana well and value their Christian beliefs. Yirenya has found people at OSU to be inclusive and respectful. The biggest difficulty, according to Yirenya, for underserved communities, is access to education and they believe there should be more educational opportunities targeting these communities."
+  
+    },
+    {
+      "id": 4,
+      "name": "Javier Corona",
+      "date": "June 1, 2023",
+      "src": "videos/SESAP_Interview_6_with_Javier_Corona.mp4",
+      "summary": "Javier Corona is a Chicano-Mexican American from Boise, Idaho and is a first-generation student who values cultural identity. They studied as an undergraduate at Columbia University and faced pressure to prove themselves, especially in engineering. Javier Corona also completed graduate studies at Boise State and moved to Oregon State with the support of an advisor and group of students from Boise State. Corona found support from high school teachers who prepared them for college. Corona remarks that the lack of diversity in the engineering program is a boundary to the education process, making it difficult to separate pressure from racial bias versus academic bias. They believe that openness and understanding are important skills that need to be trained, and that support and resources are needed for underserved communities. Despite some economic stresses, Corona describes a positive experience at OSU."
+    },
+    {
+      "id": 5,
+      "name": "Fernando Rodriguez",
+      "date": "June 22, 2023",
+      "src": "videos/SESAP_Interview_7_with_Fernando_Rodriguez-Estrada.mp4",
+      "summary": "Fernando Rodriguez is a Hispanic computer science student, the third of six siblings to earn a degree. Rodriguez grew up watching his father’s involvement in agriculture which sparked an interest in OSU's migrant program. Initially, Rodriguez pursued bioengineering, but after Covid, he became interested in medicine. Rodriguez desires to improve society and was a high school robotics program mentor. Being math-oriented, Rodriguez switched to the EECS department to work remotely during Covid. They generally felt accepted and capable within this program, but some peers of Rodrigeuz struggled to keep up in certain computer science courses. Learning institutions prioritize a good-looking resume, instead of truly learning the material, which emphasizes a majority group culture. Rodriguez primarily experienced e-campus courses, which makes it difficult to form social connections with staff and peers. Fernando Rodriguez values perseverance and hard work and wants to prioritize the wellbeing of underprivileged backgrounds."
+    },
+    {
+      "id": 6,
+      "name": "Jazmin Cartagena",
+      "date": "June 5, 2023",
+      "src": "videos/SESAP_Interview_8_with_Jazmin_Cartagena.mp4",
+      "summary": "Jazmin Cartagena is a Marine corps veteran who worked on CH53 Echo helicopters and became an ECE major after being inspired by her military background. She began school with a 3 month old daughter and recently had a son. At OSU, Cartegena often felt a disconnect as an older student and mother, as well as being Hispanic. With the support of her father, who began at university during the same time period as Cartagena, her children, and a community of females that Cartagena found at OSU, she has preserved as a student. Being a non-traditional student, however, it is obvious that this program is not catered toward her needs. There is a need for greater flexibility in scheduling, and many marginalized students often feel imposter syndrome in this program. She has a huge family value and has the strength of not being a ‘typical’ engineering student. Cartagena shares that it is important to show different backgrounds of students, marketing toward the non-traditional student. Education should display and promote the successes of parents, first generation students, and all marginalized communities. "
+    },
+    {
+      "id": 7,
+      "name": "Sanjida Yeasmin",
+      "date": "July 6, 2023",
+      "src": "videos/SESAP_Interview_9_with_Sanjida_Yeasmin.mp4",
+      "summary": "Sanjida Yeasmin, a first-generation PhD student from Bangladesh, is currently studying electrical engineering and conducting research at Oregon State University. Her research focuses on detecting stress hormones from human sweat, which could aid in detecting diseases in developing countries without the need for expensive equipment. Despite facing cultural and educational barriers in her home country, Yeasmin is passionate about using her education to positively impact healthcare in areas of poverty. She hopes to become a teacher and create her own business post-PhD. Yeasmin has experienced cultural acceptance and a kind community at OSU, but also faced significant culture shock and worked hard to keep up. Communication is one of her most valued qualities."
+    },
+    {
+      "id": 8,
+      "name": "Garrett Berliner",
+      "date": "April 4, 2023",
+      "src": "videos/SESAP_Meeting_1_with_Garrett_Berliner.mp4",
+      "summary": "Garrett Berliner is a third year CS major with a minor in mathematics, who grew up moving around the U.S. as a military child. Berliner identifies with Hispanic culture and has a desire to use their CS skills to help underrepresented populations. The pandemic motivated their choice to attend OSU, which has a strong engineering program. Berliner found a collaborative CS community at OSU and felt the most belonging during their third year. Berliner has worked as a TA and has noticed that some of the most brilliant individuals in CS are from underrepresented groups, yet don’t feel they can speak up. Berliner suggests that changes need to be made in order to encourage students, such as offering a dedicated diversity class, and emphasizing the importance of recognizing the difficulty for underrepresented populations to speak up in CS."
+    },
+    {
+      "id": 9,
+      "name": "Bryan Alvarez",
+      "date": "April 6, 2023",
+      "src": "videos/SESAP_Meeting_2_with_Bryan_Alvarez.mp4",
+      "summary": "Bryan Alvarez is a first-generation college student, immigrant, and veteran who first attended OSU in 2012 after being encouraged by his father. He then decided that he wanted to join the military but was injured while deployed in Jordan in 2019. A veterans resource counselor recommended the engineering program at OSU due to his disability. Alvarez felt he could finally succeed for the right reasons, getting A’s where he historically struggled. Though he excelled academically, he struggled to feel a sense of belonging as many students already had coding experience which became the new baseline in class. Alvarez values hard work and sees engineering as a means to improve people's lives. He hopes to make information more accessible to those who lack resources and believes that initial support is crucial."
+    }
+   
+   
+  ]

@@ -1,0 +1,69 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Archive Project | Interviews</title>
+        <meta name="description" content="This is the description">
+        <!--Description will show under page title in google browser results-->
+        <link rel="stylesheet" href="styles.css">
+        <script src ="visuals.js" defer></script>
+
+    </head>
+    <body class = "body">
+        
+        <header class ="main-header"> <!--this will be the header of the page--> 
+            <h1 class="visual visual-large">Narratives</h1> <!--h1 through h6, heading sizes-->
+            <nav class = "nav main-nav"><!-- this tells us that navigational buttons go here-->
+                <ul> <!-- Two types of list ol and us, ordered and unordered list--> 
+                    <li><a href="visualizations.html">VISUALIZATIONS</a></li> <!-- styled with bullet point in ul, ol is numbers-->
+                    <li><a href = "Interviews.html">NARRATIVES</a></li>
+                    <li><a href="purpose.html">PURPOSE</a></li>
+
+
+                </ul>
+            </nav>
+            
+            
+            
+          
+        </header>
+        <section>
+            <h2 class="section-header"></h2>
+            
+            <div class ="search-wrapper">
+                <label class = "search-label" for="search">Search Name/Date</label>
+                <input class = "search-bar" type="search" id="search" data-search>
+            </div>
+
+                    
+            <div class="user-cards" data-user-cards-container></div>
+            <template data-user-template>
+                <div class="row interview">
+                
+                <span class="interview-item name header" data-header>  </span>
+                <span class="interview-item date body" data-body> </span>
+                <video class="vids" controls poster = "Images/logo.png">
+                    <source src data-video>
+                </video>
+                <div class="summary" data-summary> </div>
+                    
+             </template>
+
+                
+              
+        </section>
+        
+        <footer class ="main-footer"> <!--begins the footing of the page-->
+            <div class = "main-footer-container">
+                <h3 class = "visual">The Archive Project</h3>
+                <ul class = "nav footer-nav">
+                    <li><a href="https://media.oregonstate.edu/tag?tagid=oh53" target="_blank">The Archive Site</li>
+                    <li><a href="https://scarc.library.oregonstate.edu/oralhistory.html" target="_blank">SCARC OSU</li>
+                </ul> 
+            </div>
+    
+            </footer>
+
+    </body>
+</html>
