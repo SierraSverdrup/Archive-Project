@@ -28,7 +28,7 @@ h2 {
      
     box-sizing: border-box; /*width attribute takes into account padding, for example*/
     font-family: Open Sans;
-    font-weight: bold; 
+    font-weight: 600; 
     color: #FFFFFF; 
     
 }
@@ -43,7 +43,6 @@ html, body {
 }
 .nav ul{
     margin:0;
-
 }
 
 .nav li {
@@ -51,17 +50,24 @@ html, body {
 }
 .nav a {
     display: inline-block;
-    padding:.5em; 
+    padding: 10px 15px 10px 15px;
     color: white;
-    text-decoration: none; 
+    text-decoration: none;  
 
 }
+
+.fix{
+    margin-right: 50px;
+}
+
 .main-nav {
     text-align: center; 
-    font-size: 1em; 
+    font-size: 1.2rem; 
+    font-weight: 500;
     border-top: 1px solid grey;
     border-bottom: 1px solid grey;
     background-color: #212529;
+    
 }
 .main-nav li {
     padding: 0 5%;
@@ -75,6 +81,7 @@ html, body {
     /*background-color: rgba(0,0,0,.6);*/
     /*background-image: url("Images/trees.jpg");*/
     background-color: white;
+    height: 100px; 
 }
 
 
@@ -87,8 +94,11 @@ html, body {
 }
 
 .visual-large { 
-    font-size: 2em;
-    font-weight: bold;
+    font-size: 1.5rem;
+    font-weight: 680;
+    padding-top: 35px;
+    padding-left: 1rem;
+    text-align: left; 
 }
 
 .content-section {
