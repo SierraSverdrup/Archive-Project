@@ -4,6 +4,8 @@ const userCardContainer = document.querySelector("[data-user-cards-container]")
 const searchInput = document.querySelector("[data-search]")
 
 
+
+
 let users = []
 
 searchInput.addEventListener("input", (e) => {
@@ -16,6 +18,22 @@ searchInput.addEventListener("input", (e) => {
         user.element.classList.toggle("hide", !isVisible)
     })
     
+})
+
+const community = document.getElementById("community");
+community.addEventListener('change', function() {
+    if(community.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("community")
+    
+            user.element.classList.toggle("hide", !isVisible)
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
 })
 
 
@@ -45,8 +63,8 @@ fetch('./data.json')
 
 
             userCardContainer.append(card)
-            return { name: user.name, date: user.date, element: card}
+            return { name: user.name, date: user.date, themes: user.themes, element: card}
         })
     })
 
-document.getElementById('thing').setAttribute(poster, "Images/logo.png")
+//document.getElementById('thing').setAttribute(poster, "Images/logo.png")
