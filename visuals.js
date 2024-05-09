@@ -27,6 +27,7 @@ community.addEventListener('change', function() {
             var isVisible = user.themes.includes("community")
     
             user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
         })
 }
     else{
@@ -36,6 +37,129 @@ community.addEventListener('change', function() {
     }
 })
 
+const religion = document.getElementById("religion");
+religion.addEventListener('change', function() {
+    if(religion.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("religion")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+const support = document.getElementById("support");
+support.addEventListener('change', function() {
+    if(support.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("support")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+
+
+const diversity = document.getElementById("diversity");
+diversity.addEventListener('change', function() {
+    if(diversity.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("diversity")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+const connection = document.getElementById("connection");
+connection.addEventListener('change', function() {
+    if(connection.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("connection")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+
+const family = document.getElementById("family");
+family.addEventListener('change', function() {
+    if(family.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("family")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+
+const access = document.getElementById("access");
+access.addEventListener('change', function() {
+    if(access.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("access")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
+
+
+const work = document.getElementById("work");
+work.addEventListener('change', function() {
+    if(work.checked){
+        users.forEach(user => {
+            var isVisible = user.themes.includes("work")
+    
+            user.element.classList.toggle("hide", !isVisible)
+            //make it so search bar goes away
+        })
+}
+    else{
+        users.forEach(user => {
+            user.element.classList.toggle("hide", false)
+        })
+    }
+})
 
 
 
