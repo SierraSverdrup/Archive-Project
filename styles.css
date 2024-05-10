@@ -127,30 +127,11 @@ fix the hover for the header and footer
     font-weight: bold; 
     color:#D73F09;
     text-align: center; 
-    font-size: 2em;    
-}
-
-.graphics {
-    float: left; 
-    margin: 15px;
-    padding: 10px;
-    border: 5px solid #121517;
-    background-color: white;
+    font-size: 2em;   
     
-    /*border-radius: 50%   //to make circular image */
-
 }
 
 
-
-.paragraph {
-    text-align: left; 
-    font-size: 1.1em;
-    font-style:italic; 
-    font-weight: 400; 
-    color: white;
-    padding: 5px; 
-}
 
 /*
 .flex-container {
@@ -336,4 +317,38 @@ fix the hover for the header and footer
     background-color: #121517;
     color: #999;
     
+}
+
+
+.blend {
+    background-color: white;
+}
+
+.graphics {
+    /*float: left; */ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 95%;
+
+    /*border: 5px solid #121517;*/
+    background-color: white;
+    
+    /*border-radius: 50%   //to make circular image */
+
+}
+
+.box {
+    border-bottom: 2px solid #121517;
+    margin: 15px;
+}
+
+
+.paragraph {
+    text-align: center; 
+    font-size: 1.1em;
+    font-style:italic; 
+    font-weight: 400; 
+    color:  #121517;
+    padding: 8px; 
 }
