@@ -85,18 +85,38 @@
             <div class="user-cards" data-user-cards-container></div>
             <template data-user-template>
                 <div class="row interview">
+                    <span class="interview-item name header" data-header></span>
+                    <span class="interview-item date body" data-body></span>
+                    <div class="vids-container">
+                        <iframe id="kaltura_player" class = "vids"
+                                src data-video
+                                width="640" 
+                                height="394" 
+                                allowfullscreen 
+                                webkitallowfullscreen 
+                                mozAllowFullScreen 
+                                allow="autoplay *; fullscreen *; encrypted-media *" 
+                                sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" 
+                                frameborder="0" 
+                                title="SESAP_Interview_4_with_Daniel_Yirenya-Tawiah">
+                        </iframe>
+                    </div>
+                    <div class="summary" data-summary></div>
+                </div>
+            </template>
+
+           <!--<template data-user-template>
+                <div class="row interview">
                 
                 <span class="interview-item name header" data-header>  </span>
                 <span class="interview-item date body" data-body> </span>
-    
                 <video class="vids" controls poster = "Images/logo.png">
                     <source src data-video>
                 </video>
                 <div class="summary" data-summary> </div>
                 
-             </template>
-
-                
+             </template> -->
+            
               
         </section>
         

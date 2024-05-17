@@ -245,7 +245,8 @@ fix the hover for the header and footer
     font-size: 1.5em;
     width: 35%; 
     margin: 20px;  
-    margin-left: 20%; 
+    margin-left: 20%;
+    text-align: center; 
 }
 
 .date {
@@ -255,10 +256,15 @@ fix the hover for the header and footer
 
 
 .vids {
-    width: 60%;
-    margin-top: 15px;
+    /*width: 60%;*/
+    width:640px;
+    height: 394px;
+    display: block;
+    margin: 0 auto; 
+    /*margin-top: 15px;
     margin-bottom: 15px; 
-    margin-left: 20%;
+    margin-left: 10%;*/
+    
     border: 5px solid black; 
     
     background-color: black;
@@ -353,6 +359,7 @@ fix the hover for the header and footer
 .box {
     border-bottom: 2px solid #121517;
     margin: 15px;
+    
 }
 
 
@@ -363,6 +370,10 @@ fix the hover for the header and footer
     font-weight: 400; 
     color:  #121517;
     padding: 8px; 
+}
+
+.body-special {
+    background-color: #D73F09;
 }
 
 
