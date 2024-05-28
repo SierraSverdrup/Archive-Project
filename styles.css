@@ -374,7 +374,7 @@ fix the hover for the header and footer
 
 .body-special {
     background-color: #D73F09;
-    background-image: linear-gradient(to right, #D73F09, #121517, #D73F09);
+    background-image: linear-gradient(to right, #121517, #D73F09, #D73F09,#D73F09, #121517);
 }
 
 
